@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndySync
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Architecture and Design
+- 🌱 I’m currently learning Cool Automation Stuff
+- 💞️ I’m looking to collaborate on IaaC Automation and Design
 - 📫 How to reach me ... LinkinIn Annatam Dey
 
 <!---
